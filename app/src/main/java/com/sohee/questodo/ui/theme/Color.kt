@@ -1,4 +1,4 @@
-package com.seeho.quest.ui.theme
+package com.sohee.questodo.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.seeho.quest
+package com.sohee.questodo
 
 import org.junit.Test
 

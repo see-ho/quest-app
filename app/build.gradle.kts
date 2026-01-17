@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.seeho.quest"
+    namespace = "com.sohee.questodo"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.seeho.quest"
+        applicationId = "com.sohee.questodo"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
